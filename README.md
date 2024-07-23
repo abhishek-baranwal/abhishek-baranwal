@@ -86,9 +86,9 @@
 </details>
                 
  
- ![Visitor Count](https://profile-counter.glitch.me/{abhiknoldur}/count.svg)
+ ![Visitor Count](https://profile-counter.glitch.me/{abhishek-baranwal}/count.svg)
 
-![DevOps-Roadmap](https://github.com/Abhiknoldur/Abhiknoldur/blob/main/devops-roadmap.png)
+![DevOps-Roadmap](https://github.com/abhishek-baranwal/abhishek-baranwal/blob/main/devops-roadmap.png)
 
 
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
