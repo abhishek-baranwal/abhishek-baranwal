@@ -82,7 +82,7 @@
  <details>
 <summary>📊 Github Stats</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhiknoldur&show_icons=true&theme=gotham" alt="Abhishek Baranwal | Stats" />       
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhishek-baranwal&show_icons=true&theme=gotham" alt="Abhishek Baranwal | Stats" />       
 </details>
                 
  
